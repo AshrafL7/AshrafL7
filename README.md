@@ -18,6 +18,25 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+###
+<br clear="both">
+
+<div align="center">
+  <img height="190" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR1NXlybXhuZjRnOGJtMGlkNGF5M3M5bjNnNmV3dXo1dDdjZzhqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIQ2OBrGPCq0o6QQZY/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshrafL7/AshrafL7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshrafL7/AshrafL7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AshrafL7/AshrafL7/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=AshrafL7&icon=0&color=0)](https://visitcount.itsvg.in)
 
